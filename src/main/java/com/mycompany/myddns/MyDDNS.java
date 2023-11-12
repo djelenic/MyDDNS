@@ -10,8 +10,8 @@ import java.util.logging.Logger;
 
 public class MyDDNS {
 
-    static String domain = "djelenic";
-    static String token = "28830c35-5da3-4203-890f-dbdf596c1c64";
+    static String domain = "xxxxxxxx";
+    static String token = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx";
     static String routerIP;
     static Logger logger;
 
